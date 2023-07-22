@@ -6,3 +6,5 @@ Com um layout atraente e responsivo, o site apresenta informações sobre os ser
 
 Além disso, os visitantes podem entrar em contato diretamente por e-mail ou WhatsApp, tornando a comunicação rápida e fácil. 
 O design cuidadosamente elaborado utiliza cores suaves e fontes amigáveis, proporcionando uma experiência agradável ao navegar pelo site. 
+
+Acesse:  https://wbrunotech.github.io/lp_barber_shop/
