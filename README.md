@@ -1,4 +1,4 @@
-# Apresentando o projeto "Barbearia Stylus": 🧔💈
+# Apresentando o projeto "Barbearia Stylus" 🧔💈
 
 O "Barbearia Stylus" é um site que oferece uma experiência moderna e elegante para clientes em busca de cortes masculinos de alta qualidade. 
 
